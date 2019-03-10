@@ -1,0 +1,21 @@
+
+public class Program_2_Factorial_Of_Number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		int n=5;
+		int fact=1;
+		int factorial;s
+		while(n>0)
+		{
+			fact = fact+(n*(n-1));
+			n--;
+			factorial = fact+
+			=
+			
+		}
+		System.out.println(fact);
+	}
+
+}

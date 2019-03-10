@@ -1,0 +1,20 @@
+
+public class Program_2_Factorial_Recursion {
+public static void main(String[] args) {
+	
+	
+	int factorialResult = factorial(5);
+	
+	System.out.println(factorialResult);
+	}
+	static int factorial(int n)
+{
+	if(n<=1){
+		return 1;
+	}
+	else
+	{
+		return (n*factorial(n-1));
+	}
+}
+}

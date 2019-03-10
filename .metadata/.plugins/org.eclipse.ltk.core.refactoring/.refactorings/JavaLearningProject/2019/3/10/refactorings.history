@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Program_2_Factorial_Of_Number&apos; to &apos;Program_2_Factorial_WhileLoop&apos;&#x0A;- Original project: &apos;JavaLearningProject&apos;&#x0A;- Original element: &apos;Program_2_Factorial_Of_Number&apos;&#x0A;- Renamed element: &apos;Program_2_Factorial_WhileLoop&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Program_2_Factorial_Of_Number&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Program_2_Factorial_Of_Number.java[Program_2_Factorial_Of_Number" matchStrategy="1" name="Program_2_Factorial_WhileLoop" qualified="false" references="true" similarDeclarations="false" stamp="1552056465540" textual="false" version="1.0"/>
+</session>

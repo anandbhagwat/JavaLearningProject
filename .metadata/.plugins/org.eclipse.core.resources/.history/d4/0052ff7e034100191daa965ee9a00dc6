@@ -1,0 +1,13 @@
+import java.lang.System;
+import java.lang.String;
+public class Program_1_HelloWorld {
+	public static void main(String ags[]) {
+		System.out.println("Hello World");
+		Program_1_HelloWorld.main("Hello");
+	}
+	static void main(String ags[], String args[]) {
+		System.out.println("Hello World");
+		System.out.println("Hello World");
+
+	}
+}

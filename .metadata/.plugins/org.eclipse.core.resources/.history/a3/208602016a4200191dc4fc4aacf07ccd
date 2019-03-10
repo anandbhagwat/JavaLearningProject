@@ -1,0 +1,19 @@
+
+public class Program_3_Fibonacci_SeriesForLoop {
+public static void main(String[] args) {
+	int a =0;
+	int b =1;
+	int fib;
+	
+	int number=10;
+	
+	for(int i =number; i<0; i++)
+	{
+		System.out.println(a + " ");
+		fib = a+b;
+		a=b;
+		b=fib;
+				
+	}
+}
+}

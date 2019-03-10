@@ -1,0 +1,15 @@
+
+public class Program_2_Factorial_Recursion {
+public static void main(String[] args) {
+	
+	
+	int factorialResult = factorial(5);
+	
+	
+	}
+	static int factorial(int n)
+{
+	return (n*factorial(n-1));
+	
+}
+}

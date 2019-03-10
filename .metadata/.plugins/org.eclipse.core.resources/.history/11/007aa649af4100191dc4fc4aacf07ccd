@@ -1,0 +1,22 @@
+
+public class Program_2_Factorial_Of_Number {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int n=4;
+		int factorial=1;
+		
+		if (n==0 || n==1)
+		{
+			factorial = 1;
+		}
+		
+		while(n>=1)
+		{
+			factorial=factorial*n;
+			n--;
+		}
+	}
+}
